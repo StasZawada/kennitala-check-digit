@@ -1,4 +1,4 @@
-# kennitala control number check
+# kennitala check digit
 simple JavaScript function that checks if kennitala check digit is correct
 
 ninth digit of Icelandic Social Security Number (kennitala) is a check digit
